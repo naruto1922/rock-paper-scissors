@@ -20,6 +20,7 @@ g++ client.cpp -lpthread -o client
 ```
 
 5. For opening multiple client applications, repeat step 4.
+
 https://user-images.githubusercontent.com/80099980/174426924-7a51d12a-e6f9-4bea-b26c-ba1342c7e6e8.mp4
 
 ### Internal Working
