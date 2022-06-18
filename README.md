@@ -20,7 +20,7 @@ g++ client.cpp -lpthread -o client
 ```
 
 5. For opening multiple client applications, repeat step 4.
-![](https://github.com/naruto1922/rock-paper-scissors/blob/main/demo.mp4)
+https://user-images.githubusercontent.com/80099980/174426924-7a51d12a-e6f9-4bea-b26c-ba1342c7e6e8.mp4
 
 ### Internal Working
 The server creates a game and when the client joins the game, the client is asked to enter their choice. The input is then sent to the server and then the CPU or server plays their choice (using int n= rand()%3). Thus, the game is concluded. Many clients can also access the server at the same time.  
